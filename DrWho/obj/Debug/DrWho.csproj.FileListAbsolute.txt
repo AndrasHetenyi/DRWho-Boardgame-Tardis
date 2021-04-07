@@ -1,0 +1,10 @@
+C:\Users\andre\source\repos\DrWho\DrWho\bin\Debug\DrWho.exe.config
+C:\Users\andre\source\repos\DrWho\DrWho\bin\Debug\DrWho.exe
+C:\Users\andre\source\repos\DrWho\DrWho\bin\Debug\DrWho.pdb
+C:\Users\andre\source\repos\DrWho\DrWho\obj\Debug\DrWho.Form1.resources
+C:\Users\andre\source\repos\DrWho\DrWho\obj\Debug\DrWho.Properties.Resources.resources
+C:\Users\andre\source\repos\DrWho\DrWho\obj\Debug\DrWho.csproj.GenerateResource.cache
+C:\Users\andre\source\repos\DrWho\DrWho\obj\Debug\DrWho.exe
+C:\Users\andre\source\repos\DrWho\DrWho\obj\Debug\DrWho.pdb
+C:\Users\andre\source\repos\DrWho\DrWho\bin\Debug\DrWho.exe.CodeAnalysisLog.xml
+C:\Users\andre\source\repos\DrWho\DrWho\bin\Debug\DrWho.exe.lastcodeanalysissucceeded
